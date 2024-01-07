@@ -19,6 +19,8 @@ sidebar_position: 1
 
 ## add_enchant
 
+现在是42分
+
 
 
 
