@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://neige7.github.io',
+  url: 'https://fande-69247.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Wiki-Template/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'neige7', // Usually your GitHub org/user name.
+  organizationName: 'fande-69247', // Usually your GitHub org/user name.
   projectName: 'Wiki-Template', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/Neige7/Wiki-Template/blob/main'
+            'https://github.com/fande-69247/Wiki-Template/blob/main'
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Neige7/Wiki-Template',
+            href: 'https://github.com/fande-69247/Wiki-Template',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/Neige7/Wiki-Template',
+                href: 'https://github.com/fande-69247/Wiki-Template',
               },
             ],
           },
