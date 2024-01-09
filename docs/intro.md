@@ -26,10 +26,13 @@ sidebar_position: 1
 ```json
 - id: add_enchant
   args:
-    enchant: razor # 附魔ID
+    enchant: razor # 附魔ID，请使用小写
     level: 2 # 附魔等级
   ...其他配置 (如 触发器, 筛选器, 目标器, 等等)
 ```
+
+> 别跟我说你要给防具增加此效果
+> 这样做是不行的，这个效果只能用在武器上
 
 
 
